@@ -95,5 +95,16 @@ footer{
     padding: 50px 0px;
 }
 table{
-    padding: 20px;
+    padding: 10px;
+    border: 1px solid rgb(10, 105, 164);
+    border-collapse: collapse;
+}
+td{
+    padding: 5px;
+    border: 1px solid rgb(10, 105, 164);
+}
+th{
+    padding: 15px;
+    border: 1px solid rgb(10, 105, 164);
+    background-color: rgb(106, 179, 225);
 }
